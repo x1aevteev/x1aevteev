@@ -14,7 +14,7 @@ My name is Artem, I’m 20 years old, and I’m a front-end developer. I activel
   - Pinia
   - Vuetify (some experience)
 - **ReactJS** (basic understanding)
-  - TypeScript (basic understanding)
+- **TypeScript** (basic understanding)
 - **Git**
 
 ### 👨‍💻 Work Experience:
