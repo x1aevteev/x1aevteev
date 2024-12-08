@@ -12,10 +12,16 @@ My name is Artem, I’m 20 years old, and I’m a front-end developer. I activel
 - **Vue.js 3** (Options API / Composition API / Composition API + TypeScript)
   - Vuex
   - Pinia
-  - Vuetify (some experience)
+  - Vuetify
+- **Nuxt3** (elementary-intermediate level)
 - **ReactJS** (basic understanding)
-- **TypeScript** (basic understanding)
+- **TypeScript** (elementary-intermediate level)
+- **Docker** (little experience, super-elementary level)
 - **Git**
+
+### 🔋 Other skills
+- **Linux**
+
 
 ### 👨‍💻 Work Experience:
 - Bauman Moscow State Technical University
