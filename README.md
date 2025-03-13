@@ -13,7 +13,7 @@ My name is Artem, I’m 20 years old, and I’m a front-end developer. I activel
   - Vuex
   - Pinia
   - Vuetify
-- **Nuxt3** (elementary-intermediate level)
+- **Nuxt3**
 - **ReactJS** (basic understanding)
 - **TypeScript** (elementary-intermediate level)
 - **Docker** (little experience, super-elementary level)
