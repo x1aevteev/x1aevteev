@@ -21,6 +21,7 @@ My name is Artem, I’m 20 years old, and I’m a front-end developer. I activel
 
 ### 🔋 Other skills
 - **Linux**
+- **Python** (little experience, elementary level)
 
 
 ### 👨‍💻 Work Experience:
