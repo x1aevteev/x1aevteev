@@ -16,7 +16,7 @@ My name is Artem, I’m 20 years old, and I’m a front-end developer. I activel
 - **Nuxt3**
 - **ReactJS** (basic understanding)
 - **TypeScript** (elementary-intermediate level)
-- **Docker** (little experience, super-elementary level)
+- **Docker** (little experience, elementary level)
 - **Git**
 
 ### 🔋 Other skills
