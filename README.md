@@ -1,7 +1,7 @@
 # Hi! My name is Artem 👋
 
 ### 😄 About Me
-My name is Artem, I’m 20 years old, and I’m a front-end developer. I actively use modern technologies in my work, creating user-friendly and aesthetic interfaces. Currently, I’m studying at the Kaluga Branch of Bauman Moscow State Technical University, where I continue to develop my skills and work on exciting projects.
+My name is Artem, I’m 21 years old, and I’m a front-end developer. I actively use modern technologies in my work, creating user-friendly and aesthetic interfaces. Currently, I’m studying at the Kaluga Branch of Bauman Moscow State Technical University, where I continue to develop my skills and work on exciting projects.
 
 ### 💻 My Tech Stack:
 - **HTML5**
