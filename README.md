@@ -48,7 +48,7 @@ Focused on Vue 3 / Nuxt 3 ecosystem, SSR, and AI-augmented development workflows
 
 ## Education
 
-B.S. in Computer Science — Bauman Moscow State Technical University, Kaluga Branch
+B.S. in Computer Science — Bauman Moscow State Technical University
 
 ---
 
