@@ -1,36 +1,57 @@
-# Hi! My name is Artem 👋
+# Artem Evteev — Frontend Developer
 
-### 😄 About Me
-My name is Artem, I’m 21 years old, and I’m a front-end developer. I actively use modern technologies in my work, creating user-friendly and aesthetic interfaces. Currently, I’m studying at the Kaluga Branch of Bauman Moscow State Technical University, where I continue to develop my skills and work on exciting projects.
+3.5 years of commercial experience building production web applications.
+Focused on Vue 3 / Nuxt 3 ecosystem, SSR, and AI-augmented development workflows.
 
-### 💻 My Tech Stack:
-- **HTML5**
-- **CSS3 / SCSS**
-- **Tailwind CSS**
-- **Bootstrap** (some experience)
-- **JavaScript (Vanilla)**
-- **Vue.js 3** (Options API / Composition API / Composition API + TypeScript)
-  - Vuex
-  - Pinia
-  - Vuetify
-- **Nuxt3**
-- **ReactJS** (basic understanding)
-- **TypeScript** (elementary-intermediate level)
-- **Docker** (little experience, elementary level)
-- **Git**
+---
 
-### 🔋 Other skills
-- **Linux**
-- **Python** (little experience, elementary level)
+## Tech Stack
 
+**Frontend**
+- Vue 3 (Composition API + TypeScript) — primary stack, production use daily
+- Nuxt 3 — SSR, SSG, hybrid rendering, custom server middleware
+- TypeScript — strict mode, generics, utility types
+- Pinia — state management, composables pattern
+- Vite — custom plugins, build optimization
+- Tailwind CSS · SCSS · Quasar 2 · Vuetify 3
+- React (working knowledge)
 
-### 👨‍💻 Work Experience:
-- Bauman Moscow State Technical University
-- Freelance
+**Backend & Infra**
+- Node.js · Express — REST APIs, middleware, file processing
+- Laravel 10 + Statamic CMS — delivered full-stack PHP project via AI-assisted workflow
+- PostgreSQL · Redis — schema design, caching strategies
+- Docker — containerization, multi-service compose setups
 
-### 🔎 Interests:
-- Development
-- Music
-- Cars
+**AI & Tooling**
+- Claude Code — daily driver with custom CLAUDE.md / AGENTS.md configs, hooks, skills
+- OpenAI API — GPT-4o, Whisper, embeddings integration
+- GitHub Copilot / Codex
+- Git — branching strategies, conventional commits
 
-🔥 I am constantly learning and striving to enhance my skills, whether it's working with a new framework or mastering new approaches to building web applications. I’m always open to new opportunities and exciting projects! 🚀
+**Other**
+- REST · GraphQL (Apollo)
+- SSR SEO — JSON-LD (7 schema types), hreflang, dynamic meta
+- i18n — multi-locale up to 73 locales, GeoIP-based routing
+- Security — XOR encryption, anti-fingerprinting Vite plugin
+
+---
+
+## What I build
+
+- SSR applications with advanced SEO (JSON-LD, hreflang, SSR meta)
+- Multi-locale platforms (up to 73 locales, GeoIP detection)
+- SaaS dashboards and boilerplates
+- AI-powered automation tools
+- Full-stack MVPs delivered with AI-augmented workflows
+
+---
+
+## Education
+
+B.S. in Computer Science — Bauman Moscow State Technical University, Kaluga Branch
+
+---
+
+## Contact
+
+[Telegram](https://t.me/artem_evteev) · x1aevteev@gmail.com
