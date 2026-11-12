@@ -1,6 +1,6 @@
 # Artem Evteev — Frontend Developer
 
-3.5 years of commercial experience building production web applications.
+3.5+ years of commercial experience building production web applications.
 Focused on Vue 3 / Nuxt 3 ecosystem, SSR, and AI-augmented development workflows.
 
 ---
