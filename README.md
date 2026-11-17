@@ -1,56 +1,30 @@
-# Artem Evteev — Frontend Developer
+# Artem Evteev — Fullstack Engineer | Solutions & Product Engineering
 
-3.5+ years of commercial experience building production web applications.
-Focused on Vue 3 / Nuxt 3 ecosystem, SSR, and AI-augmented development workflows.
+3.5+ years of commercial software engineering experience. I build and ship web products from requirements and architecture through deployment and support.
 
----
-
-## Tech Stack
-
-**Frontend**
-- Vue 3 (Composition API + TypeScript) — primary stack, production use daily
-- Nuxt 3 — SSR, SSG, hybrid rendering, custom server middleware
-- TypeScript — strict mode, generics, utility types
-- Pinia — state management, composables pattern
-- Vite — custom plugins, build optimization
-- Tailwind CSS · SCSS · Quasar 2 · Vuetify 3
-- React (working knowledge)
-
-**Backend & Infra**
-- Node.js · Express — REST APIs, middleware, file processing
-- Laravel 10 + Statamic CMS — delivered full-stack PHP project via AI-assisted workflow
-- PostgreSQL · Redis — schema design, caching strategies
-- Docker — containerization, multi-service compose setups
-
-**AI & Tooling**
-- Claude Code — daily driver with custom CLAUDE.md / AGENTS.md configs, hooks, skills
-- OpenAI API — GPT-4o, Whisper, embeddings integration
-- GitHub Copilot / Codex
-- Git — branching strategies, conventional commits
-
-**Other**
-- REST · GraphQL (Apollo)
-- SSR SEO — JSON-LD (7 schema types), hreflang, dynamic meta
-- i18n — multi-locale up to 73 locales, GeoIP-based routing
-- Security — XOR encryption, anti-fingerprinting Vite plugin
-
----
+I work directly with stakeholders to clarify needs, explain technical trade-offs, and plan delivery. I design user workflows, APIs and data models, then build and release the solution myself.
 
 ## What I build
 
-- SSR applications with advanced SEO (JSON-LD, hreflang, SSR meta)
-- Multi-locale platforms (up to 73 locales, GeoIP detection)
-- SaaS dashboards and boilerplates
-- AI-powered automation tools
-- Full-stack MVPs delivered with AI-augmented workflows
+- **Fullstack products:** dashboards, CMS platforms and customer portals with role-based access.
+- **Workflow automation:** AI service integrations, scheduled jobs, background processing, retries and real-time progress updates.
+- **Reusable web platforms:** multi-site Nuxt applications, CMS-managed content, SSR and localization.
 
----
+## Tech stack
+
+- **Frontend:** TypeScript, JavaScript, Vue 3, Nuxt, React, Pinia, Vite, Tailwind CSS, SCSS
+- **Backend & data:** Node.js, Express, Laravel, Statamic, PostgreSQL, Redis; relational schemas, migrations and SQL; REST, GraphQL and SSE
+- **Delivery:** Docker, GitLab CI/CD, Playwright, Linux, Nginx, systemd
+- **AI tooling:** Claude Code, Codex, MCP and OpenAI API integrations. I use coding agents to speed up implementation and review, and verify changes before release.
+
+## Selected projects
+
+- [Content Scheduler](https://github.com/x1aevteev/content-scheduler) — content editor, scheduling queue and publishing calendar.
+- [Meeting Summarizer](https://github.com/x1aevteev/meeting-summarizer) — turns meeting recordings into transcripts, summaries and action items.
 
 ## Education
 
-B.S. in Computer Science — Bauman Moscow State Technical University
-
----
+B.S. in Information Systems and Networks, Bauman Moscow State Technical University
 
 ## Contact
 
